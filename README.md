@@ -47,6 +47,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 ## Images in project
-![Image alt](https://github.com/TumantaevBaiaman/junior_frontend_developer/images_project/img.png)
-![Image alt](https://github.com/TumantaevBaiaman/junior_frontend_developer/images_project/img_1.png)
-![Image alt](https://github.com/TumantaevBaiaman/junior_frontend_developer/images_project/img_2.png)
+![Image alt](https://github.com/TumantaevBaiaman/junior_frontend_developer/blob/main/images_project/img.png)
+![Image alt](https://github.com/TumantaevBaiaman/junior_frontend_developer/blob/main/images_project/img_1.png)
+![Image alt](https://github.com/TumantaevBaiaman/junior_frontend_developer/blob/main/images_project/img_2.png)
